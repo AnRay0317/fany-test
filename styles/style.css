@@ -1,6 +1,13 @@
+table, th, td {
+  width: 35%;
+  border: 0px solid black;
+  border-collapse: collapse;
+
+  text-align: left;    
+}
+
+
 h1 {
     color: red;
   }
-table {
-    color: rgb(8, 8, 8);
-  }  
+ 
